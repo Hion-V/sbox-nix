@@ -1,0 +1,47 @@
+[
+  {
+    "pname": "AWSSDK.Core",
+    "version": "4.0.9.7",
+    "hash": "sha256-+y2AzdNEsHfyqKxwilJh5kifFvwGlyGHIO+zoh4J1us="
+  },
+  {
+    "pname": "AWSSDK.S3",
+    "version": "4.0.25.3",
+    "hash": "sha256-Apqwz36oOk2MyjepTeVQi9H2AIDE5J+VXTJuAbIqH6g="
+  },
+  {
+    "pname": "Facepunch.AssemblySchema",
+    "version": "1.0.13",
+    "hash": "sha256-7yQx2DBLwx4ik8ymW6G9pIV6GfTgP2Cn1CRcs7/RCrI="
+  },
+  {
+    "pname": "JetBrains.Refasmer",
+    "version": "2.0.3",
+    "hash": "sha256-+WB3hz8aWATG+860FJMrpacpfGINXDJcT6RuQX7890k="
+  },
+  {
+    "pname": "Microsoft.CodeAnalysis.Analyzers",
+    "version": "2.6.1",
+    "hash": "sha256-1+FV3KvwerZsknecHZhdDACsPKaWrbQQeN27BAcZk94="
+  },
+  {
+    "pname": "Microsoft.CodeAnalysis.Common",
+    "version": "2.10.0",
+    "hash": "sha256-UikMFW/dcSiKfsUqnn2hvguLJN7gw1e01WpWmHEHydA="
+  },
+  {
+    "pname": "Microsoft.Extensions.FileSystemGlobbing",
+    "version": "10.0.0",
+    "hash": "sha256-ETfVTdsdBtp69EggLg/AARTQW4lLQYVdVldXIQrsjZA="
+  },
+  {
+    "pname": "Mono.Cecil",
+    "version": "0.11.6",
+    "hash": "sha256-0qI4MqqpSLqaAazEK1cm40xfmVlY8bMNRcDnxws6ctU="
+  },
+  {
+    "pname": "System.CommandLine",
+    "version": "2.0.0-beta4.22272.1",
+    "hash": "sha256-zSO+CYnMH8deBHDI9DHhCPj79Ce3GOzHCyH1/TiHxcc="
+  }
+]
