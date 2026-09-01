@@ -105,7 +105,7 @@
 
           outputHashAlgo = "sha256";
           outputHashMode = "recursive";
-          outputHash = "sha256-PZUKR6L6ORLm15FMAJv+gSGLIxWx0GaDn6A4fng/TVs=";
+          outputHash = "sha256-bZnr8CQY4q1e3oEy56+Ea+kpD2ORXrulLO3OQQTHhPg=";
         };
 
         engineProjectFiles = [
