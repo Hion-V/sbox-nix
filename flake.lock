@@ -44,11 +44,11 @@
     "sbox-public": {
       "flake": false,
       "locked": {
-        "lastModified": 1787899020,
-        "narHash": "sha256-v6oU2OfwHrt+rRvTUQDqb+G92MsjQaMtuf8T0iiGFuk=",
+        "lastModified": 1788214428,
+        "narHash": "sha256-LojspZGabXHEW0YZtQ2b3FlpILF3qTSzfYEtrXeoFEc=",
         "owner": "joshuascript",
         "repo": "sbox-public",
-        "rev": "7e29ecdb3d6028bfbea586ba95df8792d0e4ecda",
+        "rev": "9c47fa04d15caff1d94c8f0900bbcd8f78ba9bdb",
         "type": "github"
       },
       "original": {
